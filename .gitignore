@@ -1,0 +1,9 @@
+.DS_Store
+.history
+target/
+build/
+project/
+.idea/
+.idea_modules/
+*.iml
+out/
